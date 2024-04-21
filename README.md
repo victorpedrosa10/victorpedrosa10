@@ -2,7 +2,7 @@
 
 Sou Victor Pedrosa, Engenheiro de Produção formado pela UNI7, com habilidades avançadas em pacotes de escritório como Excel, PowerPoint, Word, Outlook e SharePoint. Possuo conhecimentos em ferramentas como Microsoft Power BI, Microsoft Project e Bizagi Modeler. 
 
-Recentemente, concluí uma Certificação de Desenvolvimento Full-Stack na DevClub, adquirindo experiência prática com tecnologias de front-end como React, JavaScript, TypeScript, HTML e CSS. No back-end, aprendi a construir APIs REST seguras com Node.js, Express, JWT, bancos de dados relacionais como PostgreSQL e não relacionais como MongoDB. Também tive a oportunidade de explorar o desenvolvimento mobile com React Native.
+Recentemente, estou concluindo uma Certificação de Desenvolvimento Full-Stack na DevClub, adquirindo experiência prática com tecnologias de front-end como React, JavaScript, TypeScript, HTML e CSS. No back-end, aprendi a construir APIs REST seguras com Node.js, Express, JWT, bancos de dados relacionais como PostgreSQL e não relacionais como MongoDB. Também tive a oportunidade de explorar o desenvolvimento mobile com React Native.
 
 Com 9 anos de experiência em rotinas administrativas, trabalhei com gestão e planejamento de vendas, marketing, manutenção, controle de produção e atendimento ao cliente. Durante meu estágio de 2018 a 2019 na área de Gestão e análise de Projetos de T.I, aprimorei minhas habilidades em análise e criação de indicadores de desempenho, gerenciamento de processos e definição de planos de ação para melhoria contínua.
 
