@@ -36,15 +36,14 @@ Sou um profissional multidisciplinar, combinando conhecimentos em engenharia, ad
 
 
 ## Status do meu Github
-
 <div align="center" >
-<a href="https://github.com/victorpedrosa10/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=victorpedrosa10" />
+
+<a href="https://github.com/victorpedrosa10?tab=repositories">
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=victorpedrosa10&theme=dark&show_icons=trues" />
 </a>
-<a href="https://github.com/victorpedrosa10/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorpedrosa10&layout=compact&langs_count=8&card_width=320" />
+<a href="hhttps://github.com/victorpedrosa10?tab=repositories">
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpedrosa10&layout=compact&theme=dark" />
 </a>
-</div>
 
 ##
 <div align="center">
